@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 drxtcyfvgbuhjnkml# FrontendApp
 
@@ -58,3 +59,8 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# DarkHorse
+Group members: Sagandykov Akezhan, Toleutayev Alisher, Yeldes Alimzhan
+Welcome to DarkHorse, your trusted online shop for high-quality household essentials! From cleaning supplies to kitchen must-haves and home organization, we offer everything you need for a comfortable home.
+>>>>>>> f138ac34940360f42d8bf1ff9e2202c783698253
