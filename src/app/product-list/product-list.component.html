@@ -1,0 +1,11 @@
+<div *ngIf="products.length > 0; else loading">
+  <div *ngFor="let product of products" class="product-card">
+    <h3>{{ product.name }}</h3>
+    <p>{{ product.description }}</p>
+    <p><strong>{{ product.price }} Тг</strong></p>
+    <p>В наличии: {{ product.stock }} шт.</p>
+  </div>
+</div>
+<ng-template #loading>
+  <p>Loading products...</p>
+</ng-template>

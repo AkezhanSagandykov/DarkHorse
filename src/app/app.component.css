@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  gap: 1rem;
+  background-color: #333;
+  padding: 1rem;
+  color: white;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+}

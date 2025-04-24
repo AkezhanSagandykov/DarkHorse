@@ -1,0 +1,12 @@
+<div class="form">
+  <input [(ngModel)]="name" placeholder="Product Name">
+  <input [(ngModel)]="description" placeholder="Description">
+  <input [(ngModel)]="price" type="number" placeholder="Price">
+  <input type="number" [(ngModel)]="stock" placeholder="Stock Quantity" name="stock" />
+  <input [(ngModel)]="category" placeholder="Category ID">
+  <button (click)="createProduct()">Create Product</button>
+</div>
+<div class="form">
+  <input [(ngModel)]="deleteProductId" placeholder="Product ID to Delete">
+  <button (click)="deleteProduct()">Delete Product</button>
+</div>

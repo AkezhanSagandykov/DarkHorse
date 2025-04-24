@@ -1,0 +1,15 @@
+.form {
+  max-width: 400px;
+  margin: auto;
+}
+input {
+  display: block;
+  margin-bottom: 0.5rem;
+  width: 100%;
+}
+button {
+  width: 100%;
+  background-color: #ff9800;
+  color: white;
+  padding: 0.5rem;
+}
